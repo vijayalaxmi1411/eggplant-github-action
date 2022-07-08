@@ -23,7 +23,7 @@ jobs:
           dryRun: true
           serverURL: "http://localhost:8000"
           clientID: "client:dai:agent:integration"
-          testConfigID: "016cfb6f-c2f2-40db-bb30-d47f4acd5014" # Test configuration which need to perform execution
+          testConfigID: "2d3beb7f-876c-4387-914e-4d68cee3cfed" # Test configuration which need to perform execution
           clientSecret: "5db99784-65f3-4e6d-9c00-7915970af6c0" # Eggplant DAI service client secret
           # Alternatively, DAI client secret can be set as repo secret
           # by going to GitHub Settings > Secrets > Actions
